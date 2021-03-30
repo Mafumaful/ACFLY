@@ -1,5 +1,7 @@
 # MAVROS
 
+注意：上位机必须要能运行ROS
+
 ## 消息结构
 
 PositionTarget message
